@@ -1,0 +1,15 @@
+F:\Антон\IT\New1\exemple\ex002\bin\Debug\net6.0\ex002.exe
+F:\Антон\IT\New1\exemple\ex002\bin\Debug\net6.0\ex002.deps.json
+F:\Антон\IT\New1\exemple\ex002\bin\Debug\net6.0\ex002.runtimeconfig.json
+F:\Антон\IT\New1\exemple\ex002\bin\Debug\net6.0\ex002.dll
+F:\Антон\IT\New1\exemple\ex002\bin\Debug\net6.0\ex002.pdb
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.dll
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\refint\ex002.dll
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.pdb
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ex002.genruntimeconfig.cache
+F:\Антон\IT\New1\exemple\ex002\obj\Debug\net6.0\ref\ex002.dll
